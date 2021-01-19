@@ -1,7 +1,7 @@
 ## HelloWorld
 
 ### App Description
-My Android Prework Project
+My Android Prework Project<br /><br />
 All the features of the app can be viewed below
 
 ### App Walk-though
